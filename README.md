@@ -63,4 +63,4 @@ HTML5, CSS3 e JavaScript puro (sem bibliotecas).
 
 ## 👥 Autores
 
-**Grupo 16: Tiago Peixer, Erik Scalvim, Lucas José Deschamps, Mateus Diego Senhori e João Guilherme Russi.
+**Grupo 16: Tiago Peixer, Erik Scalvim, Lucas José Deschamps, Mateus Diego Senhori e João Guilherme Russi.**
