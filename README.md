@@ -1,5 +1,6 @@
 # Brusque Kids 🐦🦫🐒
 
+
 **Aprender brincando, crescer explorando!**
 
 Jogo educativo para crianças de até 11 anos, criado pelo **Grupo 16** como projeto de curricularização para a Prefeitura de Brusque - SC. As perguntas usam lugares e elementos da cidade (Ponte Irineu Bornhausen, Praça Barão de Schneeburg, Rio Itajaí-Mirim, Fenarreco, capivaras etc.).
@@ -62,4 +63,4 @@ HTML5, CSS3 e JavaScript puro (sem bibliotecas).
 
 ## 👥 Autores
 
-Grupo 16: Tiago Peixer, Erik Scalvim, Lucas José Deschamps, Mateus Diego Senhori e João Guilherme Russi.
+**Grupo 16: Tiago Peixer, Erik Scalvim, Lucas José Deschamps, Mateus Diego Senhori e João Guilherme Russi.
